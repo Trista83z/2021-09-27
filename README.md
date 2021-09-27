@@ -41,6 +41,13 @@
 > 換行：需在最後面+兩個空白鍵··
 
 ---
+python
+```
+s = <b> "python syntax highlighting" </b>
+print s
+```
+
+
 
 
 
